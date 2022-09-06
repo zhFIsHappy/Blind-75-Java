@@ -16,3 +16,6 @@ class Solution{
         return res.toArray(new int[res.size()][2]);
     }
 }
+
+// Time Complexity : O(nlogn)
+// Space Complexity: O(n)
